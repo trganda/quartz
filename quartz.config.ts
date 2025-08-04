@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "www.trganda.top",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Excalidraw", "cavans"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
